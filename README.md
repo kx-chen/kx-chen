@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a first year student at the University of British Columbia. Currently, I'm part of the MLH Fellowship where I contribute to open source Python projects, such as Flask, Werkzueg, Click, FastAPI and more. 
+I’m a first year student at the University of British Columbia. Currently, I'm part of the MLH Fellowship where I contribute to open source Python projects such as Flask, Werkzeug, Click, FastAPI and more. 
 
 📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kai-xing-chen/).
 
