@@ -2,8 +2,7 @@
 
 A bit about me:
 * Second year student at the University of British Columbia
-* Incoming SWE Intern at SAP
-* Previous SWE Intern at Later and Hootsuite
+* Previous SWE Intern at Slack, SAP, Later and Hootsuite
 
 I'm also a huge believer in open source. 
 
